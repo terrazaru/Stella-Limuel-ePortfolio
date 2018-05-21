@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Stella Limuel
+## Advancement Assistant
+Creating print or web graphic materials to and helping the work of the Director of Advancement to maintain a good relationship with the school’s donors.
 
-You can use the [editor on GitHub](https://github.com/terrazaru/slimueleportfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/terrazaru/slimueleportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Summary
+I am an advancement assistant with 4 years of experience, and I am hoping you will look at my website and let me know what you think. I am a hardworking and detail-oriented professional. First, I have redesigned the office signs for The Parish School in Houston in 2017. I have also produced animated Holiday email for the school in 2017. Finally, I have designed graphic materials for The Parish School’s 25th “Big Birthday Bash” Gala.
